@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waseem-info.vercel.app/sitemap.xml
